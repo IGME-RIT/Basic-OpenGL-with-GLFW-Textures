@@ -1,0 +1,14 @@
+series: Basic OpenGL with GLFW
+title: Textures
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: Load an image file and use it to texture a square.
+language: C++
+tags:
+  - Graphics
+extra_resources:
+connections:
+  - series: Basic OpenGL with GLFW
+    title: Fragment Shaders
